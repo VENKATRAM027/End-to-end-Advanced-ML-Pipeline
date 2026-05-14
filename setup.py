@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "End-to-end-Advanced-ML-Pipeline"
 AUTHOR_USER_NAME = "VENKATRAM027"
-SRC_REPO = "End-to-end-Vine-Quality-ML-Project"
+SRC_REPO = "MlProject"
 AUTHOR_EMAIL = "nadarvenkatram@gmail.com"
 
 

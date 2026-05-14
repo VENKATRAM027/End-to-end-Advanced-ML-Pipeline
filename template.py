@@ -5,7 +5,7 @@ import logging
 # Configure logging to output the time and the message
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
-project_name = "End-to-end-Vine-Quality-ML-Project"
+project_name = "MlProject"
 
 # List of all files and directories to be created
 list_of_files = [
